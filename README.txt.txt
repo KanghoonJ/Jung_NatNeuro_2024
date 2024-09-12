@@ -1,1 +1,0 @@
-Data and analysis code for Jung et al. Nat. Neurosci. 2024, A dopamine-mediated formation of memory module in the nucleus accumbens for goal-directed navigation.
